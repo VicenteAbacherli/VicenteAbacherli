@@ -6,8 +6,9 @@ Atualmente atuo na área de TI como Auxiliar de TI, sempre em busca de aprendiza
 
 ## 🚀 Habilidades Técnicas
 
+- **Java** 
 - **Python**
-- **HTML e CSS**
+- **POO**
 - **MySQL**
 - **Banco de dados**
 - **Análise de dados**
@@ -16,8 +17,7 @@ Atualmente atuo na área de TI como Auxiliar de TI, sempre em busca de aprendiza
 
 ## 📚 Formação & Cursos
 
-- Graduando em Análise e Desenvolvimento de Sistemas (ADS)
-- Aluno na Data Science Academy: Python para Análise de Dados
+- Graduando em Análise e Desenvolvimento de Sistemas (ADS) - Conclusão Dez/2025
 
 ---
 
@@ -26,7 +26,7 @@ Atualmente atuo na área de TI como Auxiliar de TI, sempre em busca de aprendiza
 - Adoro desafios e oportunidades que me colocam à prova.
 - Sou autodidata e tenho facilidade em aprender coisas novas.
 - Curiosidade: toco mais de 12 instrumentos musicais! 🎶
-- Minha missão atual é me tornar um Desenvolvedor de Software.
+- Minha missão atual é me tornar um Desenvolvedor Java.
 
 ---
 
